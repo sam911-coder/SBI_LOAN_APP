@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+	int x=20;
         return new TestSuite( AppTest.class );
     }
 
